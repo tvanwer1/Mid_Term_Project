@@ -16,9 +16,9 @@ Increase skills using scikit-learn and Python
 
 A professor during my culinary education made a bold proclamation to avoid black gill mushrooms but enjoy purple gill ones. Since then I was curious how accurate this information is. I thought this project could support his claim and or educate me to avoid the right gill colors. Additionally, I am interested in any other attributes that provide a strong indicator of consumability. Most important I want to learn the scikit-learn tool so that I am more proficient building models.
 
-## Data
+## Data  -    [UCI ML Repo site](https://archive.ics.uci.edu/ml/datasets/mushroom)
 
-[UCI ML Repo - Mushroom](https://archive.ics.uci.edu/ml/machine-learning-databases/mushroom/agaricus-lepiota.data)
+[UCI ML Repo Mushroom dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/mushroom/agaricus-lepiota.data)
 
 | Overview | Description |
 | :---: | :---: |
