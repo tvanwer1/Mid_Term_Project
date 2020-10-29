@@ -20,17 +20,8 @@ A professor during my culinary education made a bold proclamation to avoid black
 
 ## Table of Content
 
-- Abstract
-- Introduction
-- Very specific and clear research questions
-- Brief EDA(Exploratory Data Analysis)
-- Data Cleaning
-- Feature Engineering 
-- Modeling
-- Results and discussion
-- Conclusion and summary
-- Limitations and later work.
-- References and contributions
+1. [Code]
+2. [Python Notebook]
 
 
 
