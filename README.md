@@ -33,8 +33,8 @@ A professor during my culinary education made a bold proclamation to avoid black
 
 ## Table of Content
 
-1. [Code]
-2. [Python Notebook]
+1. [Code](https://github.com/tvanwer1/Mid_Term_Project/tree/main/Technical%20Notebook)
+2. [Python Notebook](https://github.com/tvanwer1/Mid_Term_Project/blob/main/Technical%20Notebook/Mushroom_Final.ipynb)
 
 
 
