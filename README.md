@@ -1,4 +1,4 @@
-# :mushroom: Which ones are safe to eat  - Mid_Term_Project :mushroom:
+# :mushroom: Which ones are safe to eat:mushroom:  - Mid_Term_Project 
 
 ## Overview
 
