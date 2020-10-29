@@ -18,6 +18,19 @@ A professor during my culinary education made a bold proclamation to avoid black
 
 [UCI ML Repo - Mushroom](https://archive.ics.uci.edu/ml/machine-learning-databases/mushroom/agaricus-lepiota.data)
 
+| Overview | Description |
+| :---: | :---: |
+| Data Set Characteristics | Multivariate |
+| Number of Instances | 8124 |
+| Area | Life |
+| Attribute Characteristics | Categorical |
+| Number of Attributes | 22 |
+| Date Donated | 1987-04-27|
+| Associated Tasks | Classification |
+| Missing Values? | Yes |
+| Number of Web Hits | 569714 |
+
+
 ## Table of Content
 
 1. [Code]
