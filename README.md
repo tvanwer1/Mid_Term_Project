@@ -20,6 +20,20 @@ A professor during my culinary education made a bold proclamation to avoid black
 
 ## Table of Content
 
+- Abstract
+- Introduction
+- Very specific and clear research questions
+- Brief EDA(Exploratory Data Analysis)
+- Data Cleaning
+- Feature Engineering 
+- Modeling
+- Results and discussion
+- Conclusion and summary
+- Limitations and later work.
+- References and contributions
+
+
+
 ## Packages and Software
 
 + [Pandas](https://pandas.pydata.org/), [Numpy](https://numpy.org/), [TextBlob](https://textblob.readthedocs.io/en/dev/install.html), [Scikit-learn](https://scikit-learn.org/stable/index.html) - data analysis
